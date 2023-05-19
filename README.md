@@ -5,4 +5,4 @@
 
 | Название проекта | Описание | Используемые библиотеки | 
 | :---------------------- | :---------------------- | :---------------------- |
-| [Промышленность](https://github.com/pzuboff/steel_temperature_prediction/blob/main/steel_temperature_prediction.ipynb) | Необходимо защитить данные клиентов страховой компании | *pandas, Scikit-learn, NymPy, Plotly, CatBoost, LightGBM* |
+| [Промышленность](https://github.com/pzuboff/steel_temperature_prediction/blob/main/steel_temperature_prediction.ipynb) | Необходимо создать модель, которая предскажет температуру стали | *pandas, Scikit-learn, NymPy, Plotly, CatBoost, LightGBM* |
